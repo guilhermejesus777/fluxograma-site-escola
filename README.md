@@ -1,21 +1,28 @@
-﻿# Fluxograma do site da escola
+﻿# Fluxogramas do site da escola
 
-Este repositório reúne o link para o fluxograma do **Agenda Escolar** do
-Colégio Estadual Presidente Kennedy.
+Fluxogramas do **Agenda Escolar** do Colégio Estadual Presidente Kennedy,
+desenhados com os símbolos corretos:
 
-## 🔗 Acesse o fluxograma
+- **elipse** — início e fim;
+- **retângulo** — processo;
+- **losango** — decisão;
+- **paralelogramo** — entrada/saída;
+- **setas** — caminho do fluxo.
+
+## 1. Login e acesso ao sistema
+
+[![Fluxograma de login e acesso](docs/fluxogramas/1-fluxo-login-e-acesso.png)](docs/fluxogramas/1-fluxo-login-e-acesso.png)
+
+## 2. Reservas de espaços e atividades
+
+[![Fluxograma de reservas e atividades](docs/fluxogramas/2-fluxo-reservas-e-atividades.png)](docs/fluxogramas/2-fluxo-reservas-e-atividades.png)
+
+## Documentação completa
+
+O documento com os diagramas Mermaid e a explicação de cada etapa está no
+repositório principal:
 
 **https://github.com/guilhermejesus777/site-escola/blob/main/docs/FLUXOGRAMA.md**
-
-O documento mostra, com diagramas Mermaid:
-
-- visão geral das telas;
-- login, primeiro acesso e sessão;
-- reservas de espaços;
-- provas e atividades;
-- configurações e permissões;
-- persistência dos dados;
-- resumo das rotas.
 
 ## Site publicado
 
